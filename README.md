@@ -460,7 +460,7 @@ Contributions are welcome! Areas for improvement:
 ### Development Setup
 ```bash
 git clone <repository>
-cd minecraft-bedrock-mcp
+cd minecraft-bedrock-command-mcp
 pip install -e .
 ```
 
