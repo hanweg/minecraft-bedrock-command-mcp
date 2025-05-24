@@ -481,7 +481,7 @@ Having issues? Check these resources:
 1. **[Troubleshooting Section](#-troubleshooting)** above
 2. **[MCP Documentation](https://modelcontextprotocol.io/)**
 3. **[Minecraft Bedrock Server Documentation](https://minecraft.wiki/w/Bedrock_Dedicated_Server)**
-4. **GitHub Issues** (if this were a real repository)
+4. **GitHub Issues https://github.com/hanweg/minecraft-bedrock-command-mcp/issues**
 
 ---
 
