@@ -123,9 +123,9 @@ Unlike Minecraft Java Edition which uses RCON, Bedrock Edition requires direct p
    - Download from [minecraft.net/download/server/bedrock](https://www.minecraft.net/en-us/download/server/bedrock)
    - Extract and configure your server
 
-2. **Python 3.8+**
+2. **Python 3.10+**
    ```bash
-   python --version  # Should be 3.8 or higher
+   python --version  # Should be 3.10 or higher
    ```
 
 3. **MCP Python SDK**
