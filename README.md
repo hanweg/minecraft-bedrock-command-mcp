@@ -68,7 +68,7 @@ A Model Context Protocol (MCP) server that enables AI assistants like Claude to 
 
 ![Minecraft Bedrock MCP](https://img.shields.io/badge/Minecraft-Bedrock%20Edition-green)
 ![MCP](https://img.shields.io/badge/MCP-Compatible-blue)
-![Python](https://img.shields.io/badge/Python-3.8%2B-yellow)
+![Python](https://img.shields.io/badge/Python-3.10%2B-yellow)
 
 ## 🎯 Overview
 
