@@ -123,9 +123,9 @@ Unlike Minecraft Java Edition which uses RCON, Bedrock Edition requires direct p
    - Download from [minecraft.net/download/server/bedrock](https://www.minecraft.net/en-us/download/server/bedrock)
    - Extract and configure your server
 
-2. **Python 3.10+**
+2. **Python 3.8+**
    ```bash
-   python --version  # Should be 3.10 or higher
+   python --version  # Should be 3.8 or higher
    ```
 
 3. **MCP Python SDK**
@@ -460,7 +460,7 @@ Contributions are welcome! Areas for improvement:
 ### Development Setup
 ```bash
 git clone <repository>
-cd minecraft-bedrock-command-mcp
+cd minecraft-bedrock-mcp
 pip install -e .
 ```
 
@@ -481,7 +481,8 @@ Having issues? Check these resources:
 1. **[Troubleshooting Section](#-troubleshooting)** above
 2. **[MCP Documentation](https://modelcontextprotocol.io/)**
 3. **[Minecraft Bedrock Server Documentation](https://minecraft.wiki/w/Bedrock_Dedicated_Server)**
-4. **GitHub Issues https://github.com/hanweg/minecraft-bedrock-command-mcp/issues** 
+4. **GitHub Issues** (if this were a real repository)
+
 ---
 
 **Happy Mining with AI! ⛏️🤖**
